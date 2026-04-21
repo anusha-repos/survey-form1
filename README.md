@@ -44,4 +44,6 @@ The form includes:
 #How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/survey-form.git
+   git clone https://github.com/anusha-repos/survey-form1.git
+2 ```cd survey-form1```
+3 ``` open index.html```
